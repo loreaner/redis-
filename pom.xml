@@ -18,10 +18,14 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+=======
+
+>>>>>>> a0ccc4677e2dce5aeb75f1555c7d901f2a5637ee
             <!-- Spring Data Redis -->
             <dependency>
                 <groupId>org.springframework.boot</groupId>
